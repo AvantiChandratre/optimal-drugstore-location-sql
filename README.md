@@ -50,5 +50,5 @@ Hospitals often lack nearby, easily accessible pharmacies, creating friction for
 - Model competitor cannibalization effects  
 - Explore supply‑chain logistics via wholesaler proximity  
 
-#### Team : Chhaya, Avanti, Jayesh
+#### Team : Avanti, Chhaya, Jayesh
  
